@@ -1,4 +1,4 @@
-🧠 # Customer Personality Analysis
+# 🧠 Customer Personality Analysis
 
 A data science project for clustering and understanding customer behavior using unsupervised machine learning techniques.
 
